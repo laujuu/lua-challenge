@@ -42,6 +42,16 @@ blueTeam.players.push({
 
 ```
 
+## Estrutura
+```
+.
+├── controller
+│   ├── model
+│       └── Queue.lua
+│   └── TeamMatcher.lua  
+└── README.md
+```
+
 ## Abordagem
 
 A princípio, no começo, pensei em criar uma API REST e consumi-la em um front básico, porém não tinha muita certeza em relação ao tempo. 
